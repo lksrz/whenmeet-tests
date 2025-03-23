@@ -1,0 +1,15 @@
+{
+  "name": "whenmeet-tests",
+  "version": "1.0.0",
+  "description": "Test repository for WhenMeet.me calendar scheduling application",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "whenmeet",
+    "test"
+  ],
+  "author": "",
+  "license": "MIT"
+}
